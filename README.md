@@ -1,2 +1,5 @@
 # MothLauncher
-dmenu like menu but faster
+
+dmenu like menu but faster (mmap() $PATH DATABASE)
+
+`mothl -h`
